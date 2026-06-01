@@ -242,7 +242,7 @@ outputs/
 
 **Sinali**
 - 📍 Sri Lanka
-- 🔗 GitHub: [your-github-profile]
+- 🔗 GitHub: https://github.com/Sinali21
 
 ---
 
